@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body {
+    background: url("../img/background.png");
+    background-size: cover;
+}
+
+#counter {
+    text-align: center;
+    font-size: 42px;
+    font-family: 'Nabla', cursive;
+}
+
+#cookie {
+    max-width: 440px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.image{background-color: bisque;position: absolute;margin-left: 100px;font-size: 40px;}
